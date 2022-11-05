@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zachary
-- 👀 I’m interested in coding games!
-- 🌱 I’m currently learning javascript with GameMakerStudio2
-- 💞️ I’m looking to collaborate on my game with GameMakerStudio2
+- 👀 I’m interested in Web Development!
+- 🌱 I’m currently learning HTML, CSS and Javascript with various projects!
+- 💞️ I’m looking to collaborate on webpages!
 - 📫 How to reach me: galbraithzachary@gmail.com
 
 <!---
